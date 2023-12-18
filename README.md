@@ -10,7 +10,7 @@ My school is (The High School of Telecommunications Arts and Technology)[https:/
 ### My schedule consists of...
 1.  Advanced Weight Training
 2.  AP World History
-3.  Literature of th Modern World (ELA)
+3.  Literature of the Modern World (ELA)
 4.  Algebra II
 5.  Software Engineering Program
 6. Spanish Language Culture and Art
@@ -26,5 +26,13 @@ My school is (The High School of Telecommunications Arts and Technology)[https:/
         * CDMX
             * Xochimilco
             * Basilica de Guadalupe
+*  Want To Visit
+    * Japan
+        * Osaka
+        * Shibuya
+        * Sendai
+        * Akihabara
 
+Thanks for reading this !
 
+I hope that I taguth you a little something about me !
