@@ -35,4 +35,4 @@ My school is (The High School of Telecommunications Arts and Technology)[https:/
 
 Thanks for reading this !
 
-I hope that I taguth you a little something about me !
+I hope that I taught you a little something about me !
