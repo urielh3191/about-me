@@ -3,7 +3,7 @@ Hello ! My name is **Uriel**, but it's easier to just call me **Luis**. It's eas
 
 If you ever need to contact me, my e-mail is [urielh17@nycstudents.net](mailto:urielh17@nycstudents.net)
 
-My school is (The High School of Telecommunications Arts and Technology)[https://hstat.org] (HSTAT for short).
+My school is [The High School of Telecommunications Arts and Technology](https://hstat.org)  (HSTAT for short).
 
 
 ---
